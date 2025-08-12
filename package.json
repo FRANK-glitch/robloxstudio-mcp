@@ -46,6 +46,7 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "node-fetch": "^3.3.2",
+    "robloxstudio-mcp": "^1.5.1",
     "uuid": "^9.0.1",
     "ws": "^8.14.2"
   },
